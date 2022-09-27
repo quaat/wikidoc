@@ -1,0 +1,18 @@
+.. Doctest documentation master file
+
+GitLab Documentation Project
+============================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :glob:
+
+
+   docs.wiki/*
+
+*******
+Contact
+*******
+
+Please submit requests and questions to <mailto:githelp+sintef-docs-438-issue-@gitlab.sintef.no>
